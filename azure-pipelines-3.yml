@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  pool: week5saaspool
+  name: week5saaspool
 
 variables:
   buildConfiguration: 'Release'
